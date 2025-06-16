@@ -686,11 +686,11 @@
 
 .u-section-5 .u-list-1 {
   width: 712px;
-  margin: 137px auto 60px;
+  margin: 60px auto;
 }
 
 .u-section-5 .u-repeater-1 {
-  min-height: 225px;
+  min-height: 277px;
   grid-template-columns: repeat(3, calc(33.3333% - 13.3333px));
   grid-gap: 20px;
 }
